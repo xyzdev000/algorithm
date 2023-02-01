@@ -13,3 +13,11 @@ class Solution {
     }
 }
 
+/* 
+ * [point]
+ *  1 ≤ p의 길이 ≤ 18
+ *  int형 불가
+ *  int: 10자리 / long: 19자리
+ *
+ */
+
